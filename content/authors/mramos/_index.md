@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Associate
+role: Senior Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -69,15 +69,17 @@ user_groups:
 - Bioconductor Community
 ---
 
-I am a Research Associate at [CUNY SPH](https://sph.cuny.edu/) and a
-Biostatistician for the [Bioconductor](https://bioconductor.org) project at
-[Roswell Park CCC](https://roswellpark.org/). I am a senior member of the
-[Waldron Lab](https://waldronlab.io/) led by Levi Waldron, PhD.
+I am a Senior Data Scientist at
+[CUNY School of Public Health](https://sph.cuny.edu/) and a Senior
+Biostatistician for the [Bioconductor](https://bioconductor.org) project
+at [Roswell Park Comprehensive Cancer Center](https://roswellpark.org/). I am a
+senior member of the [Waldron Lab](https://waldronlab.io/) led by Levi Waldron,
+PhD.
 
-I enjoy teaching introductory biostatistics and programming courses at the
-CUNY School of Public Health. I teach R and SAS summer courses to MPH students
-who are highly motivated to gain practical experience with data analysis and
-management. I also provide students with one-on-one assistance with research
-projects and culminating MPH activities.
+I enjoy teaching introductory biostatistics and programming courses at
+CUNY SPH. I teach R and SAS intensive summer courses to highly motivated MPH
+students who want to gain practical experience with data analysis and data
+management. I meet individually with students who need assistance with research
+projects and culminating MPH / DrPH activities.
 
 

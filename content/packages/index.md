@@ -17,7 +17,7 @@ comments: false
 | [curatedTCGAData](https://github.com/waldronlab/curatedTCGAData) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/data-experiment/curatedTCGAData.svg)](http://bioconductor.org/checkResults/release/data-experiment-LATEST/curatedTCGAData/) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/data-experiment/curatedTCGAData.svg)](http://bioconductor.org/checkResults/devel/data-experiment-LATEST/curatedTCGAData) |
 | [cBioPortalData](https://github.com/waldronlab/cBioPortalData) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/cBioPortalData.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/cBioPortalData) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/cBioPortalData.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/cBioPortalData) |
 | [SingleCellMultiModal](https://github.com/waldronlab/SingleCellMultiModal) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/data-experiment/SingleCellMultiModal.svg)](http://bioconductor.org/checkResults/release/data-experiment-LATEST/SingleCellMultiModal/) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/data-experiment/SingleCellMultiModal.svg)](http://bioconductor.org/checkResults/devel/data-experiment-LATEST/SingleCellMultiModal) |
-| [HCAMatrixBrowser](https://github.com/Bioconductor/HCAMatrixBrowser) | NA | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/HCAMatrixBrowser.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/HCAMatrixBrowser) |
+| [HCAMatrixBrowser](https://github.com/Bioconductor/HCAMatrixBrowser) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/HCAMatrixBrowser.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/HCAMatrixBrowser/) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/HCAMatrixBrowser.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/HCAMatrixBrowser) |
 
 ## Contributor
 
@@ -32,3 +32,7 @@ comments: false
 |:-----:|:-----:|:-----:|
 | [BiocManager](https://github.com/Bioconductor/BiocManager) | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/BiocManager)](https://cran.r-project.org/package=BiocManager) | [![metacran downloads](https://cranlogs.r-pkg.org/badges/BiocManager)](https://cran.r-project.org/package=BiocManager) |
 
+### In Development
+
+* [describer](https://github.com/LiNk-NY/describer)
+* [newsfeed](https://github.com/waldronlab/newsfeed)
