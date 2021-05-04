@@ -70,16 +70,20 @@ user_groups:
 ---
 
 I am a Senior Data Scientist at
-[CUNY School of Public Health](https://sph.cuny.edu/) and a Senior
+[CUNY School of Public Health](https://sph.cuny.edu/) and Senior
 Biostatistician for the [Bioconductor](https://bioconductor.org) project
-at [Roswell Park Comprehensive Cancer Center](https://roswellpark.org/). I am a
-senior member of the [Waldron Lab](https://waldronlab.io/) led by Levi Waldron,
-PhD.
+at [Roswell Park Comprehensive Cancer Center](https://roswellpark.org/).
+I have been part of [Levi Waldron's Lab](https://waldronlab.io/)
+for about 5 years.
 
-I enjoy teaching introductory biostatistics and programming courses at
-CUNY SPH. I teach R and SAS intensive summer courses to highly motivated MPH
-students who want to gain practical experience with data analysis and data
-management. I meet individually with students who need assistance with research
-projects and culminating MPH / DrPH activities.
+My interests include genomic data representations and manipulations in
+Bioconductor. With the help of the Bioconductor Multi-assay Special Interest
+Group, I've developed `MultiAssayExperiment`, an integrative container to
+represent and coordinate multiple experiments on a set of samples.
 
+I also teach introductory biostatistics and programming courses at
+CUNY SPH, which I enjoy. These courses in R and SAS provide practical data
+analysis and management experience to highly motivated MPH
+students. I also provide individual assistance to students who are working on
+culminating graduate degree activities.
 
