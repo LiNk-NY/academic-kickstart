@@ -14,4 +14,5 @@ author = "mramos"
 
 [design.background]
   image = "stripes.jpg"
+  image_darken = 0.2
 +++

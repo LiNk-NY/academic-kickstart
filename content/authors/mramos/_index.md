@@ -69,21 +69,20 @@ user_groups:
 - Bioconductor Community
 ---
 
-I am a Senior Data Scientist at
-[CUNY School of Public Health](https://sph.cuny.edu/) and Senior
+I am a Senior Data Scientist at the [Waldron Lab](https://waldronlab.io/) in
+the [CUNY School of Public Health](https://sph.cuny.edu/) and Senior
 Biostatistician for the [Bioconductor](https://bioconductor.org) project
 at [Roswell Park Comprehensive Cancer Center](https://roswellpark.org/).
-I have been part of [Levi Waldron's Lab](https://waldronlab.io/)
-for about 5 years.
 
-My interests include genomic data representations and manipulations in
-Bioconductor. With the help of the Bioconductor Multi-assay Special Interest
-Group, I've developed `MultiAssayExperiment`, an integrative container to
-represent and coordinate multiple experiments on a set of samples.
+As part of the Bioconductor core team, my work involves genomic data
+structures and representations within the R/Bioconductor ecosystem. I am also
+involved in the supporting software infrastructure of the Bioconductor group
+such as BiocManager, BiocCheck, and BiocPkgTools.
+I am the developer of `MultiAssayExperiment`, a widely-used integrative
+container for representing and coordinating multiple 'omics experiments on a
+set of samples.
 
-I also teach introductory biostatistics and programming courses at
-CUNY SPH, which I enjoy. These courses in R and SAS provide practical data
-analysis and management experience to highly motivated MPH
-students. I also provide individual assistance to students who are working on
-culminating graduate degree activities.
-
+At the CUNY SPH, I am involved in teaching introductory biostatistics and
+programming courses to master-level students. These courses in R and SAS
+provide practical data analysis and management experience to highly motivated
+students.
