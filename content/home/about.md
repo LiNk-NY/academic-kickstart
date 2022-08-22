@@ -13,6 +13,6 @@ title = "About me"
 author = "mramos"
 
 [design.background]
-  image = "stripes.jpg"
-  image_darken = 0.2
+  image = "dark_stripes.png"
+  image_darken = 0.6
 +++

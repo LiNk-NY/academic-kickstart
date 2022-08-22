@@ -69,20 +69,27 @@ user_groups:
 - Bioconductor Community
 ---
 
-I am a Senior Data Scientist at the [Waldron Lab](https://waldronlab.io/) in
+I am a Senior Data Scientist in the [Waldron Lab](https://waldronlab.io/) at
 the [CUNY School of Public Health](https://sph.cuny.edu/) and Senior
 Biostatistician for the [Bioconductor](https://bioconductor.org) project
 at [Roswell Park Comprehensive Cancer Center](https://roswellpark.org/).
 
-As part of the Bioconductor core team, my work involves genomic data
-structures and representations within the R/Bioconductor ecosystem. I am also
-involved in the supporting software infrastructure of the Bioconductor group
-such as BiocManager, BiocCheck, and BiocPkgTools.
-I am the developer of `MultiAssayExperiment`, a widely-used integrative
-container for representing and coordinating multiple 'omics experiments on a
-set of samples.
+As part of the Bioconductor core team, my work involves implementing genomic
+data structures and representations within the R / Bioconductor ecosystem. I am
+also involved in supporting Bioconductor's software infrastructure such as
+[BiocManager](https://cran.r-project.org/package=BiocManager),
+[BiocCheck](https://bioconductor.org/packages/BiocCheck),
+[BiocPkgTools](https://bioconductor.org/packages/BiocPkgTools), among others.
 
-At the CUNY SPH, I am involved in teaching introductory biostatistics and
+In consultation with the Multi-Assay Special Interest Group, I have developed,
+[MultiAssayExperiment](https://bioconductor.org/packages/MultiAssayExperiment),
+a widely-used R / Bioconductor package that integrates and represents multiple
+'omics experiments on a set of samples. For a full list of package projects,
+see the `Packages` tab.
+
+At CUNY SPH, I am involved in teaching introductory biostatistics and
 programming courses to master-level students. These courses in R and SAS
-provide practical data analysis and management experience to highly motivated
+provide practical analysis and management experience to highly motivated
 students.
+
+

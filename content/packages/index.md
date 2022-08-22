@@ -1,7 +1,6 @@
 ---
 title: Bioconductor and CRAN packages
 summary: Packages that I maintain or contribute to
-
 reading_time: false
 share: false
 profile: false
@@ -29,7 +28,7 @@ comments: false
 | [BiocPkgTools](https://github.com/seandavi/BiocPkgTools) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/BiocPkgTools.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BiocPkgTools) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/BiocPkgTools.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocPkgTools) |
 | [BiocCheck](https://github.com/Bioconductor/BiocCheck) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/BiocCheck.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BiocCheck) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/BiocCheck.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocCheck) |
 | [GenomicDataCommons](https://github.com/Bioconductor/GenomicDataCommons) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/GenomicDataCommons.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/GenomicDataCommons) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/GenomicDataCommons.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/GenomicDataCommons) |
-
+| [UniProt.ws](https://github.com/Bioconductor/UniProt.ws) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/UniProt.ws.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/UniProt.ws) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/UniProt.ws.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/UniProt.ws) |
 
 ### CRAN
 
