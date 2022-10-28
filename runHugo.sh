@@ -5,11 +5,14 @@
 
 ## my_site repository
 cd $HOME/professional/my_site
-## make sure 
+## make sure to install academic
 ## pip3 install -U academic
 ## generate citations
 academic import --bibtex $HOME/professional/MyLib.bib --overwrite 
 ## make changes ... and view site
+##
+## make sure to install hugo
+## snap install hugo
 hugo server
 ## build the site
 ## http://localhost:1313/
