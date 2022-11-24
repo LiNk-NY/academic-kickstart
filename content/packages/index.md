@@ -29,6 +29,7 @@ comments: false
 | [RTCGAToolbox](https://github.com/mksamur/RTCGAToolbox) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/RTCGAToolbox.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/RTCGAToolbox) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/RTCGAToolbox.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/RTCGAToolbox) |
 | [BiocCheck](https://github.com/Bioconductor/BiocCheck) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/BiocCheck.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BiocCheck) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/BiocCheck.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocCheck) |
 | [UniProt.ws](https://github.com/Bioconductor/UniProt.ws) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/UniProt.ws.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/UniProt.ws) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/UniProt.ws.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/UniProt.ws) |
+| [BiocIO](https://github.com/Bioconductor/BiocIO) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/BiocIO.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BiocIO) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/BiocIO.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocIO) |
 
 ## Contributor
 
@@ -54,6 +55,7 @@ comments: false
 
 ### In Development
 
+* [ReleaseLaunch](https://github.com/Bioconductor/ReleaseLaunch)
 * [oncoKBData](https://github.com/waldronlab/oncoKBData)
 * [newsfeed](https://github.com/waldronlab/newsfeed)
 * [describer](https://github.com/LiNk-NY/describer)

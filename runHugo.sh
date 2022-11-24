@@ -8,7 +8,8 @@ cd $HOME/professional/my_site
 ## make sure to install academic
 ## pip3 install -U academic
 ## generate citations
-academic import --bibtex $HOME/professional/MyLib.bib --overwrite 
+# academic import --bibtex $HOME/professional/MyLib.bib --overwrite 
+academic import --bibtex $HOME/professional/PaperLib.bib --overwrite 
 ## make changes ... and view site
 ##
 ## make sure to install hugo
