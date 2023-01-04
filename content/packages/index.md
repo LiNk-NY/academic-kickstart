@@ -56,6 +56,7 @@ comments: false
 ### In Development
 
 * [ReleaseLaunch](https://github.com/Bioconductor/ReleaseLaunch)
+* [BiocHubsShiny](https://github.com/LiNk-NY/BiocHubsShiny)
 * [oncoKBData](https://github.com/waldronlab/oncoKBData)
 * [newsfeed](https://github.com/waldronlab/newsfeed)
 * [describer](https://github.com/LiNk-NY/describer)

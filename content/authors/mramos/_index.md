@@ -42,9 +42,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/M2RUseR
@@ -70,20 +67,20 @@ user_groups:
 ---
 
 I am a Senior Data Scientist in the [Waldron Lab](https://waldronlab.io/) at
-the [CUNY School of Public Health](https://sph.cuny.edu/) and Senior
-Biostatistician for the [Bioconductor](https://bioconductor.org) project
+the [CUNY School of Public Health](https://sph.cuny.edu/) and a Lead 
+Biostatistician in the [Bioconductor](https://bioconductor.org) project
 at [Roswell Park Comprehensive Cancer Center](https://roswellpark.org/).
 
-As part of the Bioconductor core team, my work involves implementing genomic
-data structures and representations within the R / Bioconductor ecosystem. I am
-also involved in supporting Bioconductor's software infrastructure such as
-[BiocManager](https://cran.r-project.org/package=BiocManager),
+As a member of the Bioconductor core team, my work involves implementing genomic
+data structures and representations within the R / Bioconductor S4 ecosystem. I am
+also involved in supporting Bioconductor's software infrastructure through packages
+such as [BiocManager](https://cran.r-project.org/package=BiocManager),
 [BiocCheck](https://bioconductor.org/packages/BiocCheck),
-[BiocPkgTools](https://bioconductor.org/packages/BiocPkgTools), among others.
+[BiocPkgTools](https://bioconductor.org/packages/BiocPkgTools), and others.
 
-In consultation with the Multi-Assay Special Interest Group, I have developed,
+Working with researchers interested in integrative genomics, I developed
 [MultiAssayExperiment](https://bioconductor.org/packages/MultiAssayExperiment),
-a widely-used R / Bioconductor package that integrates and represents multiple
+a widely-used R / Bioconductor package that represents and coordinates multiple
 'omics experiments on a set of samples. For a full list of package projects,
 see the `Packages` tab.
 
@@ -91,5 +88,4 @@ At CUNY SPH, I am involved in teaching introductory biostatistics and
 programming courses to master-level students. These courses in R and SAS
 provide practical analysis and management experience to highly motivated
 students.
-
 
