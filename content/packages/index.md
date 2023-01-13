@@ -55,6 +55,10 @@ comments: false
 
 ### In Development
 
+* [ZarrExperiment](https://github.com/Bioconductor/ZarrExperiment)
+* [CyCIFData](https://github.com/ccb-hms/CyCIFData)
+* [BiocArchive](https://github.com/LiNk-NY/BiocArchive)
+* [BranchRename](https://github.com/Bioconductor/BranchRename)
 * [ReleaseLaunch](https://github.com/Bioconductor/ReleaseLaunch)
 * [BiocHubsShiny](https://github.com/LiNk-NY/BiocHubsShiny)
 * [oncoKBData](https://github.com/waldronlab/oncoKBData)
