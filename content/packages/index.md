@@ -21,6 +21,7 @@ comments: false
 | [terraTCGAdata](https://github.com/waldronlab/terraTCGAdata) | [![Bioconductor-release Build Status](http://bioconductor.org/shields/build/release/bioc/terraTCGAdata.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/terraTCGAdata) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/terraTCGAdata.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/terraTCGAdata) |
 | [BiocBaseUtils](https://github.com/Bioconductor/BiocBaseUtils) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/years-in-bioc/BiocBaseUtils.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BiocBaseUtils) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/BiocBaseUtils.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocBaseUtils) |
 | [TENxIO](https://github.com/waldronlab/TENxIO) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/years-in-bioc/TENxIO.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/TENxIO) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/TENxIO.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/TENxIO) |
+| [BiocHubsShiny](https://github.com/Bioconductor/BiocHubsShiny) | [![Bioconductor-release Build Status](https://bioconductor.org/shields/years-in-bioc/BiocHubsShiny.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BiocHubsShiny) | [![Bioconductor-devel Build Status](http://bioconductor.org/shields/build/devel/bioc/BiocHubsShiny.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocHubsShiny) |
 
 ## Maintainer
 
@@ -60,7 +61,6 @@ comments: false
 * [BiocArchive](https://github.com/LiNk-NY/BiocArchive)
 * [BranchRename](https://github.com/Bioconductor/BranchRename)
 * [ReleaseLaunch](https://github.com/Bioconductor/ReleaseLaunch)
-* [BiocHubsShiny](https://github.com/LiNk-NY/BiocHubsShiny)
 * [oncoKBData](https://github.com/waldronlab/oncoKBData)
 * [newsfeed](https://github.com/waldronlab/newsfeed)
 * [describer](https://github.com/LiNk-NY/describer)
